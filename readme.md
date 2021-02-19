@@ -39,6 +39,6 @@
   
 <br>
 <div align="center">
-<p style="font-size:200%;">これが</p>
-<p style="font-size:400%;">コネクトフォー</p>
+<font size="6px"><p>これが</p></font>
+<font size="16px"><p>コネクトフォー</p></font>
 </div>
