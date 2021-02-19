@@ -1,7 +1,7 @@
 # Connect Four
 ![コネクトフォー](https://www.nintendo.co.jp/switch/as7ta/games/img/games/connectfour.jpg)
 <br/>
-(画像は任天堂公式サイトから引用)  
+(画像は[任天堂公式サイト](https://www.nintendo.co.jp/switch/as7ta/games/)から引用)  
 
 ## 概要
 - Nintendo Switch 『世界のアソビ大全51』に収録されている『コネクトフォー』をJavaで再現します。
