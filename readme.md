@@ -10,28 +10,28 @@
 - 重力つき四目並べとも言う。
 
 ## Nintendoの[公式紹介動画](https://www.youtube.com/watch?v=n4mNFfT2uhs&)より
-![1](./img/introduction/1.png)
+<img src="./img/introduction/1.png" alt="1" style="width:50%;height:50%;"><br>
 :boy: 「どっちが先に4つ並べられるかな？」  
 <br/>
-![2](./img/introduction/2.png)
+<img src="./img/introduction/2.png" alt="2" style="width:50%;height:50%;"><br>
 :boy: 「はい」  
 <br/>
-![3](./img/introduction/3.png)
+<img src="./img/introduction/3.png" alt="3" style="width:50%;height:50%;"><br>
 :girl: 「はい」  
 <br/>
-![4](./img/introduction/4.png)
+<img src="./img/introduction/4.png" alt="4" style="width:50%;height:50%;"><br>
 :boy: 「はい」  
 <br/>
-![5](./img/introduction/5.png)
+<img src="./img/introduction/5.png" alt="5" style="width:50%;height:50%;"><br>
 :girl: 「はい」  
 <br/>
-![6](./img/introduction/6.png)
+<img src="./img/introduction/6.png" alt="6" style="width:50%;height:50%;"><br>
 :boy: 「はい」  
 <br/>
-![7](./img/introduction/8.png)
+<img src="./img/introduction/8.png" alt="7" style="width:50%;height:50%;"><br>
 :girl: 「やった～、リーチ♪」  
 <br/>
-![8](./img/introduction/9.png)
+<img src="./img/introduction/9.png" alt="8" style="width:50%;height:50%;"><br>
 :boy: 「はい、ボクの勝ち」  
 :girl: 「あ～見逃してた～ !!」 
   
