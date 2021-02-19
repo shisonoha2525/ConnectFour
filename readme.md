@@ -1,5 +1,6 @@
 # Connect Four
 ![コネクトフォー](https://www.nintendo.co.jp/switch/as7ta/games/img/games/connectfour.jpg)
+<br/>
 (画像は任天堂公式サイトから引用)  
 
 ## 概要
@@ -37,7 +38,7 @@
   
   
 <br>
-<center>
+<div align="center">
 <p style="font-size:200%;">これが</p>
 <p style="font-size:400%;">コネクトフォー</p>
-</center>
+</div>
