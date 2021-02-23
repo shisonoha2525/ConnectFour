@@ -82,7 +82,7 @@ public class Board {
 
     public void undo() {
         if (records.size() > 0) {
-            records.remove(records.size() - 1);
+            color = records.remove(records.size() - 1).turn;
             init();
             for (int i = 0; i < records.size(); i++) {
                 put(records.get(i));
