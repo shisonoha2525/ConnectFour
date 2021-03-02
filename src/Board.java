@@ -1,8 +1,6 @@
 import java.util.ArrayList;
 import java.util.Random;
 
-import javax.management.relation.Role;
-
 class Location {
     private int x;
     private int y;
@@ -45,8 +43,12 @@ public class Board {
 
     Board() {
         records = new ArrayList<Record>();
-        Random r = new Random();
-        color = r.nextInt(2);
+        if (ConnectFour.player == -1) {
+            Random r = new Random();
+            color = r.nextInt(2);
+        } else {
+            color = ConnectFour.player;
+        }
         init();
     }
 
